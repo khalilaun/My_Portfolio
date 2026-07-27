@@ -66,7 +66,6 @@ export const assets = {
     mail_icon,
     mail_icon_dark,
     khalil_img,
-    profile_image,
     profile_photo,
     download_icon,
     hand_icon,
