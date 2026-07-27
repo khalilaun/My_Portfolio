@@ -19,7 +19,6 @@ import logo_dar from './logo_dar.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
 import khalil_img from './khalil-img.png';
-import profile_image from './profile-image.png';
 import profile_photo from './profile-photo.png';
 import download_icon from './download-icon.png';
 import hand_icon from './hand-icon.png';
